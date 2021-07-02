@@ -1,0 +1,7 @@
+# Syntax
+*.def linguist-language=ini
+*.cns linguist-language=ini
+*.const linguist-language=ini
+*.st linguist-language=ini
+*.air linguist-language=ini
+*.zss linguist-language=coffeescript
