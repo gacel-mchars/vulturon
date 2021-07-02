@@ -1,5 +1,5 @@
-# Vulturon
-Vulturon the Condorrock (from Megaman ZXA) as a Mugen char.
+# ![Mugshot](vulturon_mugshot.png) Vulturon 
+Vulturon the Condorrock (from Megaman ZXA) as a Mugen char.  
 
 ## Gameplay
 The character is a  simple character that lacks the ability to guard.  
