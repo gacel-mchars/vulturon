@@ -15,6 +15,10 @@ In addition, as a last resort, he has the ability to teleport away.
 - `C` = Strong attack.
 - `X` = Teleport.
 
+### Specials
+- `X↴50, X⬏` = Stun attack.
+- `X↴50, X⬏` = Triple Summon.
+
 ## Extra notes
 This is a very old char with very simple gameplay, not very high quality.  
 The reason why it was uploaded it to show how to use GitHub to upload Mugen chars.
