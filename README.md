@@ -10,14 +10,20 @@ He also has tools to keep the enemy in place via a charged attack, and a  strong
 In addition, as a last resort, he has the ability to teleport away.
 
 ## Commands
-- `A` = Jump  
-- `B` = Normal attack, can be chained unto itself up to 3 times.
-- `C` = Strong attack.
-- `X` = Teleport.
 
-### Specials
+### Normal Moves
+- `A` = Jump
+- `B` = Normal attack. 
+- `C` = Strong attack. <sup>`Launch` `Ground only`</sup>
+- `X` = Teleport. <sup>`Ground only`</sup>
+  
+### Unique Moves
+- `A` = Glide <sup>`Air Only`<sup>
+- `B > B > B` = Normal attack chain. <sup>`Air OK`</sup>
+
+### Special Moves
 - `X↴50, X⬏` = Stun attack.
-- `X↴50, X⬏` = Triple Summon.
+- `X↴50, X⬏` = Triple Summon. <sup>`Air only`</sup>
 
 ## Extra notes
 This is a very old char with very simple gameplay, not very high quality.  
