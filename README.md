@@ -12,19 +12,34 @@ In addition, as a last resort, he has the ability to teleport away.
 ## Commands
 
 ### Normal Moves
-- `A` = Jump
-- `B` = Normal attack. 
-- `C` = Strong attack. <sup>`Launch` `Ground only`</sup>
-- `X` = Teleport. <sup>`Ground only`</sup>
+- `a` = Jump
+- `b` = Normal attack. 
+- `c` = Strong attack. <sup>`Launch` `Ground only`</sup>
+- `x` = Teleport. <sup>`Ground only`</sup>
   
 ### Unique Moves
-- `A` = Glide <sup>`Air Only`<sup>
-- `B > B > B` = Normal attack chain. <sup>`Air OK`</sup>
+- `a` = Glide <sup>`Air Only`<sup>
+- `b > b > b` = Normal attack chain. <sup>`Air OK`</sup>
 
 ### Special Moves
-- `X↴50, X⬏` = Stun attack.
-- `X↴50, X⬏` = Triple Summon. <sup>`Air only`</sup>
+- `x↴50` `x⬏` = Stun attack.
+- `x↴50` `x⬏` = Triple Summon. <sup>`Air only`</sup>
 
 ## Extra notes
 This is a very old char with very simple gameplay, not very high quality.  
 The reason why it was uploaded it to show how to use GitHub to upload Mugen chars.
+
+The symbol notation is as follow:
+- `↴` = Hold.
+- `⬏` = Release.
+- `>` = No press other keys  between the previous and the current.
+- `+` = Simultaneous press.
+- `←, ↑, ↓, →` Arrow keys.
+- `↙, ↖, ↗, ↘` Diagonal Arrows.
+- `A, B, C, D, W, X, Y, Z` = Normal buttons.
+- `Start` = The Start Key.
+- `Menu` = The Menu key. (Ikemen Only)
+
+A example:
+- `↓` `↘` `→` `A` = QCF A
+- `→` `↓` `→` `X` = Shotyuken motion.
