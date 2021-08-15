@@ -14,7 +14,7 @@ In addition, as a last resort, he has the ability to teleport away.
 ### Normal Moves
 - `a` = Jump
 - `b` = Normal attack. 
-- `c` = Strong attack. <small><sup>`Launch` `Ground onl`y</sup></small>
+- `c` = Strong attack. <sup>`Launch` `Ground only`</sup>
 - `x` = Teleport. <sup>`Ground only`</sup>
   
 ### Unique Moves
