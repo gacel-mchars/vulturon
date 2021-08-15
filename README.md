@@ -23,7 +23,7 @@ In addition, as a last resort, he has the ability to teleport away.
 
 ### Special Moves
 - `x↴50` `x⬏` = Stun attack.
-- `x↴50` `x⬏` = Triple Summon. <sup>`Air only`</sup>
+- `x↴50` `x⬏` = Summon. <sup>`Air only`</sup>
 
 ## Extra notes
 This is a very old char with very simple gameplay, not very high quality.  
