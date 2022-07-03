@@ -42,4 +42,4 @@ The symbol notation is as follow:
 
 A example:
 - `↓` `↘` `→` `A` = QCF A
-- `→` `↓` `→` `X` = Shotyuken motion.
+- `→` `↓` `↘` `X` = Shoryuken motion.
